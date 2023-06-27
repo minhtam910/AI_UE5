@@ -5446,3 +5446,386 @@ Script call stack:
 [2023.06.27-10.32.34:909][600]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/AI_CollectController.AI_CollectController
 [2023.06.27-10.32.34:909][600]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/BTTask_Attack.BTTask_Attack
 [2023.06.27-10.32.34:909][600]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/Task/BTTask_AttackNew.BTTask_AttackNew
+[2023.06.27-10.34.04:929][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.06.27-10.34.07:004][901]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.27-10.34.07:285][901]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.34.07:285][901]MassEntity: New page: MassEntity
+[2023.06.27-10.34.07:285][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.34.07:403][901]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.27-10.34.07:403][901]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.34.07:403][901]MassEntity: New page: MassEntity
+[2023.06.27-10.34.07:404][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.34.07:498][901]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.34.07:498][901]MassEntity: New page: MassEntity
+[2023.06.27-10.34.07:498][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.34.07:599][901]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.27-10.34.07:599][901]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.34.07:599][901]MassEntity: New page: MassEntity
+[2023.06.27-10.34.07:599][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.34.07:739][901]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.34.07:739][901]MassEntity: New page: MassEntity
+[2023.06.27-10.34.07:739][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.34.07:861][901]LogSlate: Window 'AI_CollectController' being destroyed
+[2023.06.27-10.34.07:882][901]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.06.27-10.34.07:882][901]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.34.07:882][901]MassEntity: New page: MassEntity
+[2023.06.27-10.34.07:882][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.34.07:966][901]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/AI_Old/BP_Enemy_Base_New.BP_Enemy_Base_New
+	Asset Type: Blueprint
+	Asset Name: /Game/AI_Old/AI_BaseController.AI_BaseController
+	Asset Type: Blueprint
+	Asset Name: /Game/AI_Old/BTTask_ChasePlayer.BTTask_ChasePlayer
+	Asset Type: Blueprint
+	Asset Name: /Game/AI_Old/BTTask_AttackNew.BTTask_AttackNew
+	Asset Type: Blueprint
+	Asset Name: /Game/AI_Old/BB_AIBase.BB_AIBase
+	Asset Type: BlackboardData
+	Asset Name: /Game/AI_Old/BT_AIBase.BT_AIBase
+	Asset Type: BehaviorTree
+	Asset Name: /Game/AI_Old/BTTask_FocusTarget.BTTask_FocusTarget
+	Asset Type: Blueprint
+[2023.06.27-10.34.08:582][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.06.27-10.34.08:819][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.27-10.34.08:851][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.06.27-10.34.08:883][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.06.27-10.34.24:092][108]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.27-10.34.24:144][108]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.27-10.34.24:161][109]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.27-10.34.32:119][898]LogContentBrowser: Attempting asset rename: NewFolder -> Collect_SO
+[2023.06.27-10.34.32:119][898]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.27-10.34.37:114][253]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.BP_CollectGameplayBehavior_C' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehavior.PackageMetaData'
+[2023.06.27-10.34.37:114][253]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.SKEL_BP_CollectGameplayBehavior_C:K2_OnTriggeredCharacter' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehavior.PackageMetaData'
+[2023.06.27-10.34.37:114][253]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.SKEL_BP_CollectGameplayBehavior_C' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehavior.PackageMetaData'
+[2023.06.27-10.34.37:114][253]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.BP_CollectGameplayBehavior_C:K2_OnTriggeredCharacter' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehavior.PackageMetaData'
+[2023.06.27-10.34.37:114][253]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.BP_CollectGameplayBehavior_C:OnCompleted_507561F64634DC1E16E8FF982ABD19D4' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehavior.PackageMetaData'
+[2023.06.27-10.34.37:114][253]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.BP_CollectGameplayBehavior_C:OnBlendOut_507561F64634DC1E16E8FF982ABD19D4' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehavior.PackageMetaData'
+[2023.06.27-10.34.37:114][253]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.BP_CollectGameplayBehavior_C:OnInterrupted_507561F64634DC1E16E8FF982ABD19D4' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehavior.PackageMetaData'
+[2023.06.27-10.34.37:114][253]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.BP_CollectGameplayBehavior_C:OnNotifyBegin_507561F64634DC1E16E8FF982ABD19D4' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehavior.PackageMetaData'
+[2023.06.27-10.34.37:114][253]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.BP_CollectGameplayBehavior_C:OnNotifyEnd_507561F64634DC1E16E8FF982ABD19D4' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehavior.PackageMetaData'
+[2023.06.27-10.34.37:118][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.27-10.34.37:189][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_InteractObjects/AI/BP_CollectGameplayBehaviorConfig" FILE="D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BP_CollectGameplayBehaviorConfig.uasset" SILENT=true
+[2023.06.27-10.34.37:192][253]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/BP_CollectGameplayBehaviorConfig
+[2023.06.27-10.34.37:193][253]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/BP_CollectGameplayBehaviorConfig87164B50401EEF4A6E5650887AF6B483.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BP_CollectGameplayBehaviorConfig.uasset'
+[2023.06.27-10.34.37:194][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior" FILE="D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.uasset" SILENT=true
+[2023.06.27-10.34.37:200][253]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior
+[2023.06.27-10.34.37:200][253]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/BP_CollectGameplayBehaviorDB3CBFA247AB46CD647BD7A19434D8C0.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.uasset'
+[2023.06.27-10.34.37:215][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 6.24 sec)
+[2023.06.27-10.34.37:269][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.27-10.34.37:302][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.06.27-10.34.37:332][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.27-10.34.37:359][253]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.
+[2023.06.27-10.34.37:369][253]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.27-10.34.37:369][253]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehavior.BP_CollectGameplayBehavior
+[2023.06.27-10.34.37:369][253]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/BP_CollectGameplayBehaviorConfig.BP_CollectGameplayBehaviorConfig
+[2023.06.27-10.34.39:731][354]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehaviorConfig.BP_CollectGameplayBehaviorConfig_C' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehaviorConfig.PackageMetaData'
+[2023.06.27-10.34.39:731][354]LogMetaData: Removing '/Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehaviorConfig.SKEL_BP_CollectGameplayBehaviorConfig_C' ref from Metadata '/Game/A_InteractObjects/AI/BP_CollectGameplayBehaviorConfig.PackageMetaData'
+[2023.06.27-10.34.39:735][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.27-10.34.39:812][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_InteractObjects/AI/DA_ColletSmartObjectDefination" FILE="D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/DA_ColletSmartObjectDefination.uasset" SILENT=true
+[2023.06.27-10.34.39:815][354]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/DA_ColletSmartObjectDefination
+[2023.06.27-10.34.39:815][354]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/DA_ColletSmartObjectDefinationCDDD1FBA4E5034315A5142A4282FF24F.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/DA_ColletSmartObjectDefination.uasset'
+[2023.06.27-10.34.39:819][354]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehaviorConfig
+[2023.06.27-10.34.39:819][354]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/BP_CollectGameplayBehaviorConfig0A51FB7C495506D731694DB5ECBC2BC0.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehaviorConfig.uasset'
+[2023.06.27-10.34.39:831][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 6.34 sec)
+[2023.06.27-10.34.39:881][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.06.27-10.34.39:914][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.06.27-10.34.39:948][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.27-10.34.39:969][354]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehaviorConfig.
+[2023.06.27-10.34.39:980][354]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.27-10.34.39:980][354]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/Collect_SO/BP_CollectGameplayBehaviorConfig.BP_CollectGameplayBehaviorConfig
+[2023.06.27-10.34.39:980][354]LogContentValidation: Display: Validating /Script/SmartObjectsModule.SmartObjectDefinition /Game/A_InteractObjects/AI/DA_ColletSmartObjectDefination.DA_ColletSmartObjectDefination
+[2023.06.27-10.34.42:921][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.27-10.34.43:022][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_InteractObjects/AI/BTTask_Attack" FILE="D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BTTask_Attack.uasset" SILENT=true
+[2023.06.27-10.34.43:033][607]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/BTTask_Attack
+[2023.06.27-10.34.43:034][607]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/BTTask_Attack0A5EFEBC40061BA6E16A098C03B646F4.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BTTask_Attack.uasset'
+[2023.06.27-10.34.43:036][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_InteractObjects/AI/Task/BTTask_AttackNew" FILE="D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Task/BTTask_AttackNew.uasset" SILENT=true
+[2023.06.27-10.34.43:049][607]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/Task/BTTask_AttackNew
+[2023.06.27-10.34.43:050][607]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/BTTask_AttackNew96CA110B495B35544D94E9B705647F5D.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Task/BTTask_AttackNew.uasset'
+[2023.06.27-10.34.43:069][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 6.49 sec)
+[2023.06.27-10.34.43:079][607]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.27-10.34.43:079][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/BTTask_Attack.BTTask_Attack
+[2023.06.27-10.34.43:079][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/Task/BTTask_AttackNew.BTTask_AttackNew
+[2023.06.27-10.34.44:137][694]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_InteractObjects/AI/BTTask_Attack.BTTask_Attack
+[2023.06.27-10.34.44:137][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.27-10.34.48:324][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.27-10.34.52:945][927]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.27-10.35.02:614][552]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/A_InteractObjects/AI/BT_Collect.BT_Collect
+[2023.06.27-10.35.21:829][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.06.27-10.35.24:087][831]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.27-10.35.24:341][831]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.35.24:341][831]MassEntity: New page: MassEntity
+[2023.06.27-10.35.24:341][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.35.24:412][831]LogSlate: Window 'BT_Collect' being destroyed
+[2023.06.27-10.35.24:452][831]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/A_InteractObjects/AI/BTTask_Attack.BTTask_Attack
+	Asset Type: Blueprint
+[2023.06.27-10.35.24:985][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.27-10.35.25:031][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.06.27-10.35.25:063][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.27-10.35.25:722][852]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/A_InteractObjects/AI/BT_Collect.BT_Collect
+[2023.06.27-10.35.25:869][852]LogAIGraph: Error: BTTask_Attack class missing. Referenced by BehaviorTreeGraphNode_Task /Game/A_InteractObjects/AI/BT_Collect.BT_Collect:Behavior Tree.BehaviorTreeGraphNode_Task_17
+[2023.06.27-10.35.25:869][852]LogLinker: Warning: Failed to load '/Game/A_InteractObjects/AI/BTTask_Attack': Can't find file.
+[2023.06.27-10.35.25:875][852]LogLinker: Warning: Failed to load '/Game/A_InteractObjects/AI/BTTask_Attack': Can't find file.
+[2023.06.27-10.35.27:826][979]LogAIGraph: Error: BTTask_Attack class missing. Referenced by BehaviorTreeGraphNode_Task /Game/A_InteractObjects/AI/BT_Collect.BT_Collect:Behavior Tree.BehaviorTreeGraphNode_Task_17
+[2023.06.27-10.35.27:826][979]LogAIGraph: Error: BTTask_Attack class missing. Referenced by BehaviorTreeGraphNode_Task /Game/A_InteractObjects/AI/BT_Collect.BT_Collect:Behavior Tree.BehaviorTreeGraphNode_Task_17
+[2023.06.27-10.35.34:264][395]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.27-10.35.34:270][395]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.06.27-10.35.34:272][395]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.27-10.35.34:272][395]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.27-10.35.34:272][395]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 358 us)
+[2023.06.27-10.35.34:272][395]LogWorldPartition: Display: GenerateStreaming took 252 us (total: 26 ms)
+[2023.06.27-10.35.34:276][395]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.06.27-10.35.34:276][395]LogPlayLevel: [PlayLevel] Compiling BTTask_AttackNew before play...
+[2023.06.27-10.35.34:322][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.06.27-10.35.34:328][395]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2023.06.27-10.35.34:328][395]PIE: New page: PIE session: ThirdPersonMap (Jun 28, 2023, 12:35:34 AM)
+[2023.06.27-10.35.34:328][395]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.27-10.35.34:333][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005320s)
+[2023.06.27-10.35.34:334][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005357s)
+[2023.06.27-10.35.34:334][395]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.27-10.35.34:334][395]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.27-10.35.34:335][395]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.27-10.35.34:335][395]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.27-10.35.34:335][395]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.27-10.35.34:336][395]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.06.27-10.35.34:336][395]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.38 sec)
+[2023.06.27-10.35.34:336][395]LogPlayLevel: PIE: World Init took: (0.002630s)
+[2023.06.27-10.35.34:366][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.27-10.35.34:368][395]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.06.27-10.35.34:369][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.27-10.35.34:369][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.27-10.35.34:369][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.27-10.35.34:369][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.27-10.35.34:369][395]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.27-10.35.34:369][395]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.27-10.35.34:369][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.27-10.35.34:369][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.27-10.35.34:369][395]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.27-10.35.34:369][395]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.27-10.35.34:369][395]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.27-10.35.34:372][395]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.27-10.35.34:417][395]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM4 Stereo)
+[2023.06.27-10.35.34:417][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.27-10.35.34:417][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.27-10.35.34:418][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.27-10.35.34:418][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.06.27-10.35.34:418][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.06.27-10.35.34:422][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.06.27-10.35.34:422][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.06.27-10.35.34:422][395]LogInit: FAudioDevice initialized.
+[2023.06.27-10.35.34:422][395]LogAudio: Display: Audio Device (ID: 48) registered with world 'ThirdPersonMap'.
+[2023.06.27-10.35.34:426][395]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.27-10.35.34:432][395]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.06.27-17.35.34
+[2023.06.27-10.35.34:432][395]LogWorld: Bringing up level for play took: 0.005368
+[2023.06.27-10.35.34:435][395]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2023.06.27-10.35.34:438][395]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.06.27-10.35.34:439][395]PIE: Server logged in
+[2023.06.27-10.35.34:440][395]PIE: Play in editor total start time 0.17 seconds.
+[2023.06.27-10.35.53:033][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-10.35.53:034][800]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.27-10.35.53:034][800]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.35.53:034][800]MassEntity: New page: MassEntity
+[2023.06.27-10.35.53:034][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.35.53:034][800]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.06.27-10.35.53:039][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.27-10.35.53:046][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.35.53:087][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-10.35.53:088][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.06.27-10.35.53:091][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.06.27-10.35.53:102][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.06.27-10.35.53:183][801]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2023.06.27-10.36.02:560][411]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_InteractObjects/AI/Task/BTTask_AttackNew.BTTask_AttackNew
+[2023.06.27-10.36.02:561][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.27-10.36.09:711][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.27-10.36.09:807][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_InteractObjects/AI/BT_Collect" FILE="D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BT_Collect.uasset" SILENT=true
+[2023.06.27-10.36.09:823][830]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/BT_Collect
+[2023.06.27-10.36.09:823][830]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/BT_CollectB4ADBDBA49C31ECA23472FBEB606F4C3.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BT_Collect.uasset'
+[2023.06.27-10.36.09:834][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 6.61 sec)
+[2023.06.27-10.36.09:842][830]AssetCheck: New page: Asset Save: BT_Collect
+[2023.06.27-10.36.09:842][830]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/A_InteractObjects/AI/BT_Collect.BT_Collect
+[2023.06.27-10.36.11:771][952]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.27-10.36.11:777][952]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.06.27-10.36.11:779][952]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.27-10.36.11:779][952]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.27-10.36.11:779][952]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 365 us)
+[2023.06.27-10.36.11:779][952]LogWorldPartition: Display: GenerateStreaming took 235 us (total: 26 ms)
+[2023.06.27-10.36.11:783][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.27-10.36.11:783][952]PIE: New page: PIE session: ThirdPersonMap (Jun 28, 2023, 12:36:11 AM)
+[2023.06.27-10.36.11:783][952]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.27-10.36.11:788][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005093s)
+[2023.06.27-10.36.11:788][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005139s)
+[2023.06.27-10.36.11:789][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.27-10.36.11:789][952]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.27-10.36.11:790][952]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.27-10.36.11:790][952]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.27-10.36.11:790][952]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.27-10.36.11:791][952]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.06.27-10.36.11:791][952]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.38 sec)
+[2023.06.27-10.36.11:791][952]LogPlayLevel: PIE: World Init took: (0.002627s)
+[2023.06.27-10.36.11:834][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.06.27-10.36.11:841][952]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.06.27-10.36.11:841][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.27-10.36.11:841][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.27-10.36.11:841][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.27-10.36.11:841][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.27-10.36.11:841][952]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.27-10.36.11:841][952]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.27-10.36.11:841][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.27-10.36.11:841][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.27-10.36.11:842][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.27-10.36.11:842][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.27-10.36.11:842][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.27-10.36.11:845][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.27-10.36.11:889][952]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM4 Stereo)
+[2023.06.27-10.36.11:890][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.27-10.36.11:890][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.27-10.36.11:890][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.27-10.36.11:891][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2023.06.27-10.36.11:891][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2023.06.27-10.36.11:892][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2023.06.27-10.36.11:892][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2023.06.27-10.36.11:892][952]LogInit: FAudioDevice initialized.
+[2023.06.27-10.36.11:892][952]LogAudio: Display: Audio Device (ID: 49) registered with world 'ThirdPersonMap'.
+[2023.06.27-10.36.11:895][952]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.27-10.36.11:901][952]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.06.27-17.36.11
+[2023.06.27-10.36.11:902][952]LogWorld: Bringing up level for play took: 0.005406
+[2023.06.27-10.36.11:904][952]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2023.06.27-10.36.11:908][952]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.06.27-10.36.11:908][952]PIE: Server logged in
+[2023.06.27-10.36.11:909][952]PIE: Play in editor total start time 0.133 seconds.
+[2023.06.27-10.37.13:219][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-10.37.13:219][542]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.27-10.37.13:220][542]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.37.13:220][542]MassEntity: New page: MassEntity
+[2023.06.27-10.37.13:221][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.37.13:221][542]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.06.27-10.37.13:231][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.27-10.37.13:241][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.37.13:304][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.27-10.37.13:305][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.06.27-10.37.13:307][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.06.27-10.37.13:315][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-10.37.13:318][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.27-10.37.13:396][543]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2023.06.27-10.37.22:973][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.27-10.37.22:980][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.27-10.37.23:057][218]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KM/4S57P78KUPQKUCN2TT1UKF
+[2023.06.27-10.37.23:057][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.27-10.37.23:070][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KM/4S57P78KUPQKUCN2TT1UKF
+[2023.06.27-10.37.23:071][218]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/4S57P78KUPQKUCN2TT1UKF59AFFE364B932EE0B06A658980A8AF86.tmp' to 'D:/UEPro/AI_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KM/4S57P78KUPQKUCN2TT1UKF.uasset'
+[2023.06.27-10.37.23:072][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 15 ms (total: 6.63 sec)
+[2023.06.27-10.37.23:072][218]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KM/4S57P78KUPQKUCN2TT1UKF
+[2023.06.27-10.37.23:073][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/ThirdPersonMap" FILE="D:/UEPro/AI_UE5/Content/ThirdPerson/Maps/ThirdPersonMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.27-10.37.23:123][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.06.27-10.37.23:139][218]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.06.27-10.37.23:139][218]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/ThirdPersonMap7931A1604951A510BB67CCA3A76577C1.tmp' to 'D:/UEPro/AI_UE5/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.06.27-10.37.23:146][218]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.092
+[2023.06.27-10.37.23:152][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KM/4S57P78KUPQKUCN2TT1UKF
+[2023.06.27-10.37.23:153][218]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/4S57P78KUPQKUCN2TT1UKF4C9D081C4C5C292182787DBAA49ED15A.tmp' to 'D:/UEPro/AI_UE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KM/4S57P78KUPQKUCN2TT1UKF.uasset'
+[2023.06.27-10.37.23:154][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_InteractObjects/AI/Task/BTTask_AttackNew" FILE="D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Task/BTTask_AttackNew.uasset" SILENT=true
+[2023.06.27-10.37.23:164][218]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/Task/BTTask_AttackNew
+[2023.06.27-10.37.23:164][218]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/BTTask_AttackNew57BD80774CDFC81281E5C7861605B24D.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Task/BTTask_AttackNew.uasset'
+[2023.06.27-10.37.23:176][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 6.82 sec)
+[2023.06.27-10.37.23:186][218]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.27-10.37.23:186][218]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.06.27-10.37.23:186][218]LogContentValidation: Display: Validating /Game/A_InteractObjects/AI/BP_Enemy_Base.BP_Enemy_Base_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_Base_C_UAID_B42E99AB42E55B9001_1086879240
+[2023.06.27-10.37.23:186][218]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/Task/BTTask_AttackNew.BTTask_AttackNew
+[2023.06.27-10.38.09:914][751]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.27-10.38.09:915][751]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.27-10.38.09:915][751]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.27-10.38.18:319][865]LogSlate: Window 'Save Asset As' being destroyed
+[2023.06.27-10.38.18:363][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/A_InteractObjects/AI/BTTask_FocusTarget.BTTask_FocusTarget
+[2023.06.27-10.38.18:364][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.27-10.38.18:848][865]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/A_InteractObjects/AI/BTTask_FocusTarget.
+[2023.06.27-10.39.56:070][958]LogSlate: Took 0.002962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.06.27-10.41.20:327][316]BlueprintLog: New page: Compile BTTask_FocusTarget
+[2023.06.27-10.41.20:390][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.06.27-10.44.19:545][407]BlueprintLog: New page: Compile BTTask_FocusTarget
+[2023.06.27-10.44.19:621][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.06.27-10.44.28:625][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.27-10.44.28:725][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_InteractObjects/AI/BT_Collect" FILE="D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BT_Collect.uasset" SILENT=true
+[2023.06.27-10.44.28:752][ 11]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/BT_Collect
+[2023.06.27-10.44.28:753][ 11]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/BT_Collect1B8F5FD5450B13C4A71E8B8BFDE57F36.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BT_Collect.uasset'
+[2023.06.27-10.44.28:773][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 6.97 sec)
+[2023.06.27-10.44.28:789][ 11]AssetCheck: New page: Asset Save: BT_Collect
+[2023.06.27-10.44.28:789][ 11]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/A_InteractObjects/AI/BT_Collect.BT_Collect
+[2023.06.27-10.45.51:824][654]BlueprintLog: New page: Compile BTTask_FocusTarget
+[2023.06.27-10.45.51:903][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.06.27-10.45.54:230][792]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.27-10.45.54:237][792]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.06.27-10.45.54:239][792]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.27-10.45.54:239][792]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.27-10.45.54:239][792]LogWorldPartition: Display: GetPartitionedActors took 16 us (total: 382 us)
+[2023.06.27-10.45.54:239][792]LogWorldPartition: Display: GenerateStreaming took 271 us (total: 27 ms)
+[2023.06.27-10.45.54:242][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.27-10.45.54:242][792]PIE: New page: PIE session: ThirdPersonMap (Jun 28, 2023, 12:45:54 AM)
+[2023.06.27-10.45.54:281][792]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.27-10.45.54:296][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014532s)
+[2023.06.27-10.45.54:296][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.014628s)
+[2023.06.27-10.45.54:297][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.27-10.45.54:298][792]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.06.27-10.45.54:299][792]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.27-10.45.54:299][792]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.27-10.45.54:299][792]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.27-10.45.54:302][792]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.06.27-10.45.54:302][792]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 1.38 sec)
+[2023.06.27-10.45.54:302][792]LogPlayLevel: PIE: World Init took: (0.006564s)
+[2023.06.27-10.45.54:383][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.06.27-10.45.54:387][792]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.06.27-10.45.54:387][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.27-10.45.54:387][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.27-10.45.54:387][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.27-10.45.54:387][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.27-10.45.54:387][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.27-10.45.54:387][792]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.27-10.45.54:387][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.27-10.45.54:387][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.27-10.45.54:388][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.27-10.45.54:388][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.27-10.45.54:388][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.27-10.45.54:390][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.27-10.45.54:439][792]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-1000XM4 Stereo)
+[2023.06.27-10.45.54:439][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.27-10.45.54:439][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.27-10.45.54:439][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.27-10.45.54:440][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2023.06.27-10.45.54:440][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2023.06.27-10.45.54:445][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2023.06.27-10.45.54:445][792]LogInit: FAudioDevice initialized.
+[2023.06.27-10.45.54:445][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2023.06.27-10.45.54:445][792]LogAudio: Display: Audio Device (ID: 50) registered with world 'ThirdPersonMap'.
+[2023.06.27-10.45.54:450][792]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.27-10.45.54:455][792]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.06.27-17.45.54
+[2023.06.27-10.45.54:456][792]LogWorld: Bringing up level for play took: 0.006218
+[2023.06.27-10.45.54:459][792]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2023.06.27-10.45.54:463][792]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.06.27-10.45.54:464][792]PIE: Server logged in
+[2023.06.27-10.45.54:465][792]PIE: Play in editor total start time 0.229 seconds.
+[2023.06.27-10.46.11:876][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-10.46.11:877][975]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.06.27-10.46.11:877][975]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.27-10.46.11:877][975]MassEntity: New page: MassEntity
+[2023.06.27-10.46.11:878][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.46.11:878][975]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.06.27-10.46.11:884][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.27-10.46.11:898][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.27-10.46.11:970][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.27-10.46.11:971][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.06.27-10.46.11:973][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.06.27-10.46.11:984][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.06.27-10.46.12:072][976]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.06.27-10.46.18:209][362]BlueprintLog: New page: Compile BTTask_FocusTarget
+[2023.06.27-10.46.18:283][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.06.27-10.46.33:498][392]BlueprintLog: New page: Compile BTTask_FocusTarget
+[2023.06.27-10.46.33:574][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.06.27-10.48.16:594][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.06.27-10.48.16:601][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.27-10.48.16:678][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A_InteractObjects/AI/BTTask_FocusTarget" FILE="D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BTTask_FocusTarget.uasset" SILENT=true
+[2023.06.27-10.48.16:698][608]LogSavePackage: Moving output files for package: /Game/A_InteractObjects/AI/BTTask_FocusTarget
+[2023.06.27-10.48.16:698][608]LogSavePackage: Moving 'D:/UEPro/AI_UE5/Saved/BTTask_FocusTarget5F1C43A8452E018927ADFE8C6DF02F11.tmp' to 'D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BTTask_FocusTarget.uasset'
+[2023.06.27-10.48.16:719][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 7.09 sec)
+[2023.06.27-10.48.16:728][608]AssetCheck: New page: Asset Save: BTTask_FocusTarget
+[2023.06.27-10.48.16:728][608]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/A_InteractObjects/AI/BTTask_FocusTarget.BTTask_FocusTarget
+[2023.06.27-10.48.16:729][608]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/A_InteractObjects/AI/BTTask_FocusTarget.
