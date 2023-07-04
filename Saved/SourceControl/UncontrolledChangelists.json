@@ -278,6 +278,8 @@
 				"D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Task/BTTask_SetMovementSpeed.uasset",
 				"D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Task/BTTask_SheathWeapon.uasset",
 				"D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Enum/E_AISense.uasset",
+				"D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BTTask_SetPassiveState.uasset",
+				"D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/Task/BTTask_SetPassiveState.uasset",
 				"D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BTTask_SetMovementSpeed.uasset",
 				"D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/BTDecorator_HasPatrolRoute.uasset",
 				"D:/UEPro/AI_UE5/Content/A_InteractObjects/AI/DA_ColletSmartObjectDefination.uasset",
