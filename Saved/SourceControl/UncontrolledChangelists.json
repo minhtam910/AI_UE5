@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/DA_CNTT2_GAME/Content/OpenWorld.umap",
 				"G:/UnrealPro/AI_UE5/Content/A_InteractObjects/AI/AI_Scout/BT_Scouting.uasset",
 				"G:/UnrealPro/AI_UE5/Content/A_InteractObjects/AI/AI_Defender/BT_Defending.uasset",
 				"G:/UnrealPro/AI_UE5/Content/A_InteractObjects/AI/AI_Defender/Task/BTTask_AttackNew.uasset",
